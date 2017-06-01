@@ -1,0 +1,4 @@
+a 800
+razekii 10700
+razekiibot 75
+revlobot 350

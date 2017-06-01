@@ -1,0 +1,10 @@
+E:\projects\TwitchBot\TBotGUI\TBotGUI\bin\Release\TBotGUI.exe.config
+E:\projects\TwitchBot\TBotGUI\TBotGUI\bin\Release\TBotGUI.exe
+E:\projects\TwitchBot\TBotGUI\TBotGUI\bin\Release\TBotGUI.pdb
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.Form1.resources
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.Form2.resources
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.Form3.resources
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.Properties.Resources.resources
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.csproj.GenerateResource.Cache
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.exe
+E:\projects\TwitchBot\TBotGUI\TBotGUI\obj\Release\TBotGUI.pdb
